@@ -1,0 +1,14 @@
+/* Browsersync popup style */
+#__bs_notify__ {
+  top: 92.5% !important;
+  right: 2% !important;
+  border-radius: 15px !important;
+  /*height:60px !important;*/
+  opacity: 0.15 !important;
+}
+
+.error {
+  float: right;
+  font-size: 16px !important;
+  font-weight: 400 !important;
+}
