@@ -1,6 +1,5 @@
 # Authorization Api made in express
 
-##API - Nodemon, Client - Webpack##
 ```
 npm run dev
 ```
@@ -11,7 +10,7 @@ npm run dev
 * Morgan
 * Body-parser
 * Passport
-* JWT Tokens
+* JWT
 * Bcrypt-nodejs
 * Nodemon
 
